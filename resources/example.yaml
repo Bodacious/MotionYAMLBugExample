@@ -1,0 +1,16 @@
+name: "Test"
+description: "Test YAML File"
+array: 
+  -
+    name: "Sleepy"
+  -
+    name: "Grumpy"
+  -
+    name: "Dopey"
+  -
+    name: "Doc"
+  -
+    name: "Bashful"
+  -
+    name: "Håppy"
+    
